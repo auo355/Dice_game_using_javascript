@@ -1,1 +1,1 @@
-# Dice_game_-javascript-
+# My first hosted javascript demo
